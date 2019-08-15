@@ -3,7 +3,8 @@
 
 # Dicee 🎲
 
-<img align="left" src= "https://imgflip.com/gif/383zvw" height=600px>
+
+<a align="left"   href="https://imgflip.com/gif/383zvw"><img src="https://i.imgflip.com/383zvw.gif" title="made at imgflip.com"/></a>
 
 ## What i create
 
