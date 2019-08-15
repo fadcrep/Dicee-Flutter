@@ -1,5 +1,4 @@
-
-<a align="left"  height=600px   href="https://imgflip.com/gif/383zvw"><img src="https://i.imgflip.com/383zvw.gif" title="made at imgflip.com"/></a>
+  <img src="https://i.imgflip.com/383zvw.gif" title="made at imgflip.com"   align="left"  height=600px />
 
 # Dicee 🎲
 
